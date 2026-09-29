@@ -1,0 +1,6 @@
+bot:
+  token: "123456:ABC-твой-токен"
+
+webapp:
+  # https-ссылка, где лежит index.html
+  url: "https://zhiest88.github.io/lazy-quests/"

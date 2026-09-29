@@ -1,0 +1,10 @@
+.git
+.github/
+deploy/
+index.html
+config.yaml
+config.example.yaml
+README.md
+__pycache__/
+*.pyc
+.venv/

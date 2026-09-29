@@ -1,0 +1,8 @@
+# настоящий конфиг с токеном в репозиторий не попадает
+config.yaml
+__pycache__/
+*.pyc
+.venv/
+.env
+.idea/
+.vscode/
