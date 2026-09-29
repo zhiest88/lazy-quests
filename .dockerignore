@@ -1,6 +1,6 @@
 .git
 .github/
-deploy/
+config/
 index.html
 config.yaml
 config.example.yaml
